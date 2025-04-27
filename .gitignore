@@ -1,0 +1,29 @@
+# Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+.venv/
+venv/
+env/
+.env
+
+# IDE and editor configurations
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+.uploads/
+
+.chroma_db/

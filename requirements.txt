@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+llama-index
+llama-index-vector-stores-chroma
+llama-index-llms-openai
+llama-index-embeddings-huggingface
+openai
+chromadb
+python-dotenv
+pydantic
+asyncio
+sentence-transformers
+torch
